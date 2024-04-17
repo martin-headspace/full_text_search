@@ -1,3 +1,6 @@
+## [1.0.0]
+* Flutter 3.19 compatible
+
 ## [0.8.0+3]
  * Updated deps
 
