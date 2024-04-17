@@ -4,7 +4,7 @@ homepage: https://github.com/SunnyApp/full_text_search
 description: Full-text search that takes advantages of isolates to prevent locking the main thread
 
 environment:
-  sdk: '>=2.13.0 <3.0.0'
+  sdk: '>=2.19.0 <3.4.0'
 
 dependencies:
   equatable: ^2.0.5
